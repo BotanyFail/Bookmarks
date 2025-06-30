@@ -2,22 +2,128 @@
 
 ## Reading/News
 
-- [JSTOR Daily Homepage - JSTOR Daily](https://daily.jstor.org/)
+### International News
 
-- [The New York Times International - Breaking News, US News, World News, Videos](https://www.nytimes.com/international/)
+- [The Guardian](https://www.theguardian.com/international)
 
-- [The Economist | Independent journalism](https://www.economist.com/)
+- [Nytimes](https://nytimes.com/international/)
 
-- [Information is Beautiful](https://informationisbeautiful.net/)
+- [Economist](https://economist.com/)
 
-- [Knowable Magazine](https://knowablemagazine.org/)
+- [Associated Press](https://apnews.com/)
 
-- [Rest of World - Reporting Global Tech Stories](https://restofworld.org/)
+- [Wall Street Journal](https://www.wsj.com/)
 
-- [OMG! Ubuntu - Ubuntu Linux News, Apps, and More](https://www.omgubuntu.co.uk/)
+- [Washington Post](https://www.washingtonpost.com/)
+
+- [Nikkei's Asia](https://asia.nikkei.com/)
+
+- [Bloomberg Asia](https://www.bloomberg.com/asia)
+
+- [The Atlantic](https://www.theatlantic.com/world/)
+
+- [Time Magazine](https://time.com/)
+
+- [New Yorker Magazine](https://www.newyorker.com/)
+
+- [BBC](https://www.bbc.com/)
+
+- [Foreign Affairs](https://www.foreignaffairs.com/)
+
+- [The Diplomat](https://thediplomat.com/)
+
+### India News
+
+- [The Hindu](https://www.thehindu.com/)
+
+- [Indian Express](https://indianexpress.com/)
+
+- [Economic Times](https://economictimes.indiatimes.com/)
+
+- [Live Mint](https://www.livemint.com/)
+
+- [YourStory](https://yourstory.com/)
+
+### Tech
+
+- [Ars Technica](https://arstechnica.com/)
+
+- [The Register](https://www.theregister.com/)
+
+- [Wired](https://www.wired.com/)
+
+- [Rest of World](https://restofworld.org/)
+
+- [Slashdot](https://slashdot.org/)
+
+- [Techmeme](https://www.techmeme.com/)
+
+- [MIT Technology Review](https://www.technologyreview.com/)
+
+- [ACM TechNews](https://technews.acm.org/)
+
+- [Interesting Engineering](https://interestingengineering.com/)
+
+- [WCCF TECH](https://wccftech.com/)
+
+- [Tech Crunch](https://techcrunch.com/)
+
+- [The Verge](https://www.theverge.com/)
+
+- [XDA Developers](https://www.xda-developers.com/)
+
+- [GSM Arena](https://www.gsmarena.com/)
+
+- [OMG! Ubuntu](https://www.omgubuntu.co.uk/)
 
 - [It's FOSS](https://itsfoss.com/)
 
+- [Tech Urls](https://techurls.com/)
+  
+### Science
+
+- [Scientific American](https://www.scientificamerican.com/)
+
+- [Popular Science Magazine](https://www.popsci.com/)
+
+- [Smithsonian Magazine](https://www.smithsonianmag.com/)
+
+- [Quanta Magazine](https://www.quantamagazine.org/)
+
+- [Nautilus](https://nautil.us/)
+
+- [Science Alert](https://www.sciencealert.com/)
+
+- [Discover Magazine](https://www.discovermagazine.com/)
+
+- [Knowledgable Magazine](https://knowablemagazine.org/)
+
+- [New Scientist](https://www.newscientist.com/)
+
+- [Big Think](https://bigthink.com/)
+
+- [Free Think](https://www.freethink.com/)
+
+### Others
+
+- [Finshots](https://finshots.in/)
+
+- [information is Beautiful](https://informationisbeautiful.net/)
+
+- [Harvard Business Review](https://hbr.org/)
+
+- [Stratechery](https://stratechery.com/)
+
+- [Atlas Obscura](https://www.atlasobscura.com/)
+
+- [The Conversation](https://theconversation.com/global)
+
+- [JSTOR Daily](https://daily.jstor.org/)
+
+- [Aeon](https://aeon.co/)
+
+- [Psyche](https://psyche.co)
+  
 ## Misc. Bookmarks
 
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
